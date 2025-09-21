@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Sara
+# Olá! 👋 Meu nome é Sara.
 
 💻 **Desenvolvedora Web | React, HTML, CSS, JavaScript | Automação com Python | Fluig**  
 🚀 Transformo ideias em soluções digitais criando sites, automações e integrações eficientes.
@@ -16,20 +16,20 @@
 ---
 
 ## 🔹 Projetos em destaque
-### 1️⃣ Dashboard Financeiro
-- Gráficos dinâmicos com Chart.js  
+### 1️⃣ Plataforma Eopera
+- Trata-se de um sistema integrado que concentra em um único ambiente diversas ferramentas de gestão e operação empresarial. 
 - [Demo](#) | [Código](#)
 
-### 2️⃣ Landing Page “TechBoost”
-- Página responsiva com formulário de contato  
+### 2️⃣ Alteração de função ou promoção
+- Processo de solicitação de função ou promoção no fluig. 
 - [Demo](#) | [Código](#)
 
-### 3️⃣ Bot de Automação Web
-- Coleta de dados de e-commerce e exporta para Excel (Python + Selenium)  
+### 3️⃣ Consulta e envio de boletos
+- Tem por objetivo consultar e enviar boletos, no fluig.  
 - [Código](#)
 
-### 4️⃣ Mini Sistema de Gestão de Turmas
-- CRUD completo em React para cadastro de alunos e professores  
+### 4️⃣ Entrevista pós desligamento
+- Processo de avaliação da empresa pos desligamento.
 - [Demo](#) | [Código](#)
 
 ---

@@ -35,9 +35,9 @@
 ---
 
 ## 🔹 Contato
-- 📧 Email: seuemail@exemplo.com  
+- 📧 Email: dev.saraoliveira@gmail.com 
 - 🔗 LinkedIn: https://www.linkedin.com/in/sara-oliveira-32a371198/
-- 💬 Workana: [SeuPerfil](https://www.workana.com/freelancer/7f6d027eed21c97d6d249fa8a55c793a)
+- 💬 Workana: https://www.workana.com/freelancer/7f6d027eed21c97d6d249fa8a55c793a
 
 ---
 
